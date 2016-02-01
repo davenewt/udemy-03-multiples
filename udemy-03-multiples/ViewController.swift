@@ -72,6 +72,8 @@ class ViewController: UIViewController {
         currentTotal = 0
         previousTotal = 0
         multiplyBy = 0
+        
+        multiplyByInputField.text = ""
     
     }
     
